@@ -14,7 +14,7 @@ for(int i=1;i<=a;i++){
 
 
 
-int c=1;
+int C=1;
 
 for (int j=1;j<=i;j++){
 
