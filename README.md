@@ -14,7 +14,7 @@ for(int i=1;i<=a;i++){
 
 
 
-int c-1;
+int c=1;
 
 for (int j=1;j<=i;j++){
 
@@ -24,7 +24,7 @@ System.out.print(c+" ");
 
 
 
-C-C (1-1)/1;
+C=C*(i-j)/j;
 
 }
 
